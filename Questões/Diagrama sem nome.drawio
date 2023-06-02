@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T16:39:01.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.7" etag="xBe_2Md16RT3AmotM9ac" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T16:56:29.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="O09_DUlzHN5zI55b0hH8" version="21.3.7" type="github">
   <diagram name="Página-1" id="cB6FQQPdENFXNA91acGM">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sriCgcMccqZ01O_tQM2E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sriCgcMccqZ01O_tQM2E-1" target="sriCgcMccqZ01O_tQM2E-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sriCgcMccqZ01O_tQM2E-1" target="sriCgcMccqZ01O_tQM2E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-1" value="SADP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="374" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sriCgcMccqZ01O_tQM2E-2" target="sriCgcMccqZ01O_tQM2E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-2" value="Google agendas&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-3" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sriCgcMccqZ01O_tQM2E-1" target="sriCgcMccqZ01O_tQM2E-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="460" as="sourcePoint" />
+            <mxPoint x="580" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sriCgcMccqZ01O_tQM2E-8" target="sriCgcMccqZ01O_tQM2E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-8" value="Serviço de Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.992;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sriCgcMccqZ01O_tQM2E-10" target="sriCgcMccqZ01O_tQM2E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-10" value="Desenvolvedores&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.583;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sriCgcMccqZ01O_tQM2E-12" target="sriCgcMccqZ01O_tQM2E-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sriCgcMccqZ01O_tQM2E-12" value="Gerente de projetos&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
