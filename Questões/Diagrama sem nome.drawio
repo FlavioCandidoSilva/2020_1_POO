@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T23:28:53.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="szyMIjxtXaGZl_SU7yng" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T00:02:29.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_SVkWgMzSDoN0R6g61fr" version="21.3.8" type="github">
   <diagram name="Contexto" id="cB6FQQPdENFXNA91acGM">
     <mxGraphModel dx="858" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Serviço de Email" c4Type="Serviço de recuperação de senha do laravel - Password Reset" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="TMIiMM9QqScofTWe4rcH-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=16;" parent="1" vertex="1">
-            <mxGeometry x="300" y="-240" width="240" height="120" as="geometry" />
+            <mxGeometry x="294" y="-210" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
